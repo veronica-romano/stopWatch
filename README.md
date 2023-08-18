@@ -11,3 +11,5 @@ is a method that displays a menu for the user to choose between seconds (s), min
 It reads the user's input;
 parses it to determine the time and type;
 calls the PreStart method with the calculated time.
+
+###
