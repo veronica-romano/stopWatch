@@ -14,3 +14,6 @@ calls the PreStart method with the calculated time.
 
 ### PreStart: 
 This method displays countdown messages ("Ready...", "Set...", "Go!").
+With a delay of one second each using Thread.Sleep. 
+
+
