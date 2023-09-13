@@ -13,3 +13,4 @@ parses it to determine the time and type;
 calls the PreStart method with the calculated time.
 
 ### PreStart: 
+This method displays countdown messages ("Ready...", "Set...", "Go!").
