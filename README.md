@@ -12,4 +12,4 @@ It reads the user's input;
 parses it to determine the time and type;
 calls the PreStart method with the calculated time.
 
-###
+### PreStart: 
