@@ -20,3 +20,4 @@ After the "Go!" message, it calls the Start method to initiate the actual stopwa
 ### Start: 
 This method performs the countdown. It continuously clears the console, updates the current time, displays it on the screen, and waits for one second using Thread.Sleep. The loop continues until the current time matches the desired time.
 
+The code is overall functional for a basic project. However, there are a few things to improve:
